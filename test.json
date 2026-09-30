@@ -1,5 +1,5 @@
 {
-  "reported": "2026-09-30T19:42:17Z",
+  "reported": "2026-09-30T19:50:25Z",
   "minecraft": "26.2",
   "server": "Paper 26.2-123-5001879 (MC: 26.2)",
   "plugins": [
@@ -25,7 +25,7 @@
     {"name": "PluginBeacon", "version": "1.0.0", "enabled": true},
     {"name": "Shopah", "version": "1.6.0", "enabled": true},
     {"name": "StableMaster", "version": "1.2.6", "enabled": true},
-    {"name": "SuperUtilities", "version": "1.0.0", "enabled": true},
+    {"name": "SuperUtilities", "version": "1.1.0", "enabled": true},
     {"name": "TabDeathCounter", "version": "1.0", "enabled": true},
     {"name": "Vault", "version": "2.20.3", "enabled": true},
     {"name": "voicechat", "version": "2.6.23", "enabled": true},
