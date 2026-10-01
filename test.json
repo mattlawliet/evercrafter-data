@@ -1,12 +1,12 @@
 {
-  "reported": "2026-10-01T01:45:01Z",
+  "reported": "2026-10-01T01:50:23Z",
   "minecraft": "26.2",
   "server": "Paper 26.2-123-5001879 (MC: 26.2)",
   "plugins": [
     {"name": "ArmorPoser", "version": "2.1.1", "enabled": true},
     {"name": "CustomDiscs", "version": "6.0.3", "enabled": true},
     {"name": "DeathChestReborn_1.3.0", "version": "1.3.0", "enabled": true},
-    {"name": "DiscordSRV", "version": "1.30.5", "enabled": true},
+    {"name": "DiscordSRV", "version": "1.30.5", "enabled": false},
     {"name": "DiscordSRV-Staff-Chat", "version": "1.4.4", "enabled": false},
     {"name": "EssentiallyOffline", "version": "1.0.0", "enabled": true},
     {"name": "Essentials", "version": "2.22.0", "enabled": true},
