@@ -1,5 +1,5 @@
 {
-  "reported": "2026-10-04T08:16:58Z",
+  "reported": "2026-10-05T09:40:17Z",
   "minecraft": "26.2",
   "server": "Paper 26.2-124-22ca6c7 (MC: 26.2)",
   "plugins": [
@@ -38,7 +38,7 @@
     {"name": "Revaulting", "version": "0.5.0", "enabled": true},
     {"name": "RightClickHarvest", "version": "1.1", "enabled": true},
     {"name": "Shopah", "version": "1.7.0", "enabled": true},
-    {"name": "StableMaster", "version": "1.2.6", "enabled": true},
+    {"name": "StableMaster", "version": "1.2.7", "enabled": true},
     {"name": "SuperUtilities", "version": "1.2.2", "enabled": true},
     {"name": "TabDeathCounter", "version": "1.0", "enabled": true},
     {"name": "trashplugin", "version": "1.0-SNAPSHOT", "enabled": true},
